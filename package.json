@@ -1,0 +1,28 @@
+{
+  "name": "lnt_cia_2_practical_2026",
+  "version": "1.0.0",
+  "description": "L&T EduTech - Node.js & Asynchronous JavaScript CIA-2 Practical Solutions (Set 1)",
+  "main": "logger.js",
+  "scripts": {
+    "start": "node logger.js",
+    "dev": "nodemon Set1/task6.js",
+    "dev:logger": "nodemon logger.js",
+    "task1": "node Set1/task1.js",
+    "task2": "node Set1/task2.js",
+    "task3": "node Set1/task3.js",
+    "task5": "node Set1/task5.js",
+    "task6": "node Set1/task6.js",
+    "task8": "node Set1/task8.js",
+    "task10": "node Set1/task10.js",
+    "task11": "node Set1/task11.js",
+    "task14": "node Set1/task14.js",
+    "task15": "node Set1/task15.js"
+  },
+  "keywords": ["nodejs", "async", "event-loop", "promises", "eventemitter"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
